@@ -10,7 +10,9 @@ arr = [1,2,3,4,5], threshold = 3, d = 2
 3 // 2 = 1
 
 newarray = [1,1,1,4,5]
-There are 3 values of 2 after doing 2 integer divisions. Return the number of integer divisions taken (2)
+There are 3 values of 2 after doing 2 integer divisions. Return the number of integer divisions 
+performed (2)
+
 
 Solution:
 
